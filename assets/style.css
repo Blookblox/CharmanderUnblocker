@@ -1,5 +1,9 @@
 /* Some styling to make it look good */
 
+cursor: url("https://raw.githubusercontent.com/Blookblox/Tracesproxy/main/Charmander.ico"), default;
+/* just change the cursor.ico path to your location */
+}
+
 * {
   margin: 0;
   padding: 0;
