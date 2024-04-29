@@ -10,6 +10,12 @@ cursor: url("https://raw.githubusercontent.com/Blookblox/Tracesproxy/main/Charma
   padding: 0;
 }
 
+.Games:hover
+{
+    background-image:none !important;
+    background-color:#ffffff !important;
+}
+
 body {
   background-color: #151515;
   color: white;
