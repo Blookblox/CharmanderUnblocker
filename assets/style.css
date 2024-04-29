@@ -53,8 +53,8 @@ body {
 .input {
   width: 100%;
   background-color: transparent;
-  border: 1.5px rgb(74, 74, 74) solid;
-  border-radius: 17px;
+  border: 1.5px rgb(255, 255, 255) solid;
+  border-radius: 24px;
   font-size: 14px;
   padding: 12px;
   text-align: center;
@@ -66,7 +66,7 @@ body {
 }
 
 .input:disabled {
-  color: #757575;
+  color: #ff0000;
 }
 
 .logo {
